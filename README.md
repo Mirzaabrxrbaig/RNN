@@ -1,4 +1,5 @@
 # 📈 Time Series Forecasting using LSTM (RNN)
+#The project demonstrates an end-to-end deep learning pipeline for time-series forecasting using sequential neural networks.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIRZAABRARBAIG/RNN/blob/main/2025ab05259_rnn_assignment.ipynb)
 
@@ -21,13 +22,14 @@ Python, TensorFlow/Keras, NumPy, Pandas, Scikit-learn, Jupyter Notebook
 
 ## ▶️ Run Locally
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/MIRZAABRARBAIG/RNN.git
+cd RNN
+
 pip install -r requirements.txt
 jupyter notebook
 
 Open:
-2025ab05259_rnn_assignment.ipynb
+Open `2025ab05259_rnn_assignment.ipynb` and run all cells.
 
 Run all cells.
 
