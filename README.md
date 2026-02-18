@@ -1,6 +1,6 @@
 # 📈 Time Series Forecasting using LSTM (RNN)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIRZAABRARBAIG/YOUR_REPO/blob/main/2025ab05259_rnn_assignment.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MIRZAABRARBAIG/RNN/blob/main/2025ab05259_rnn_assignment.ipynb)
 
 ## 📌 Overview
 This project implements a **Long Short-Term Memory (LSTM) Recurrent Neural Network** for forecasting sequential time-series data.
